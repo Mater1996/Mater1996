@@ -2,5 +2,5 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Netease
+- 🔭 I’m currently working on Didi
 - 🌱 I’m currently learning React
